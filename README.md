@@ -40,9 +40,12 @@ Although no metric is provides perfect indicators on whether to buy or sell, the
 
 ### Bitcoin Price Movements
 In the last year, there had been several major events that had impacted the crypto space significantly. Since its inception, the currency has seen rapid addoption. In August of last year, Microstrategy had been the first publically traded company to hold all of their cash reserves in Bitcoin. The decision coming from large Bitcoin supporter Michael Saylor. Since then, Bitcoin's price had increased drastically, reaching $60,000. Recently this last month, there had been several major events that had led to the commodity's fall of all-time high's. In the same time period as Coinbase's IPO, Tesla had announced that Bitcoin will not be be an acceptable payment for Tesla vehicles citing the Bitcoin mining environmental concerns. The additional slip in price had been caused by China's crackdown on the crypto currency by not allowing Chinese brokers to purchase Bitcoin. 
-
 ![Bitcoin Price](/images/Bitcoin%20Price%20Chart.png)
-https://github.com/anduckworth/ml_bootcamp_project/blob/main/images/Bitcoin%20Price%20Chart.png
+
+
+### 
+
+https://github.com/anduckworth/ml_bootcamp_project/blob/main/images/Bitcoin%20Close%20:%20FNG.png
 ![]()<br>
 ###
 ![]()<br>
