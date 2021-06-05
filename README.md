@@ -27,6 +27,15 @@ dave = tweet_sentiment('stoolpresidente')https://twitter.com/stoolpresidente
 
 ## Analysis: 
 #### Fear and Greed Index 
+The Bitcoin Fear and Greed index is a number between 0-100 that helps indicate when investors are too fearful, or too gready. The index takes into consideration several factors. 
+
+Volatility : the program marks wider fluctuations as a sign of fear
+Market volume : When buying volumes increase significantly, the greed levels rise, too
+Social media : Monitors, gathers and counts posts on various hashtags, to see how many interactions they receive over certain time-frames
+Dominance : Once Bitcoin dominance rises, it indicates an increasing level of greed, and vice versa, when the dominance shrinks, it means that people get scared to invest in BTC. 
+Trends : The program pulls Google Trends data for various Bitcoin-related search queries and crunches those numbers, especially the change of search volumes 
+
+Although no metric is provides perfect indicators on whether to buy or sell, the Fear and Greed index can provide indicators regaurding overall market sentiment. As seen in the chart below, the fear and greed index trendline has been steadily increasing since its inception. In addition, the FNG index shows prevelent "boom and bust" cycles which can be represented in Bitcoin bull/bear markets. 
 ![FNG Trendline](/images/FNG%20Trendline.png)
 https://github.com/anduckworth/ml_bootcamp_project/blob/main/images/FNG%20Trendline.png
 ![]()<br>
