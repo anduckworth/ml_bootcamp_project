@@ -5,7 +5,8 @@
 
 Today, the world is more connected than we have ever been in history. A single Tweet from one individual can create market reactions. More recently in the last month, Elon Musk attributed to Bitcoin's fall from all-tiem high's in the last month by accouncing Tesla will not be accepting the commodity as payment for Tesla vehicles. This led us to do more reserach on the topic and apply Natural Language Processing to a selection of web-scraped Tweets. These tweets were from notable accounts in the cryptocurrency space such as Elon Musk, Charles Hoskinson, Altcoin Daily, and even Dave Portnoy. Our intention was to extract an NLP analysis from these users to understand what their sentiment was like year to date, and whether or not that had any correlation to the cryptocurrency market. Using our cryptocurrency API data, can we test and train a model that predicts actual closing prices with an accuracy close to 70%
 
-### Question 1<br> Why did we choose to only analyze the Twitter accounts of influencers from the cryptocurrency sphere? Why didn't we analyze subreddits and niche Facebook posts? 
+## Question 1 
+#### Why did we choose to only analyze the Twitter accounts of influencers from the cryptocurrency sphere? Why didn't we analyze subreddits and niche Facebook posts? 
 
 ### Response <br> Twitter is the most accessible platform for cryptocurrency leading influencers to carry the most sway over the mass market. Tweets were also the easiest form of media for us to access a variety of opinions simultaneously for natural language processing.
 ![insert photo about Twitter if needed ](
