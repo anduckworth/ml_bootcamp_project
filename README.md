@@ -14,16 +14,16 @@ Bitcoin is a major currency in the crypto market that has the most prevalence ou
 
 ## Question 3
 #### Which Twitter-based cryptocurrency influencers did we choose to analyze and apply Natural Langauge Processing to?
-mike = ('michael_saylor') Michael Saylor https://twitter.com/michael_saylor
-elon = ('elonmusk') Elon Musk https://twitter.com/elonmusk
-woo = tweet_sentiment('woonomic') Willy Woo https://twitter.com/woonomic
-t360 = tweet_sentiment('360_trader')https://twitter.com/360_trader
-whale = tweet_sentiment('CryptoWhale')https://twitter.com/ShibaInu_Rise
-charles = tweet_sentiment('IOHK_charles')https://twitter.com/IOHK_Charles
-mark = tweet_sentiment('mcuban') Mark Cuban https://twitter.com/mcuban
-kevin = tweet_sentiment('kevinolearytv') https://twitter.com/kevinolearytv
-joel = tweet_sentiment('JoelKatz') https://twitter.com/JoelKatz
-dave = tweet_sentiment('stoolpresidente')https://twitter.com/stoolpresidente
+###### mike = ('michael_saylor') Michael Saylor https://twitter.com/michael_saylor
+###### elon = ('elonmusk') Elon Musk https://twitter.com/elonmusk
+###### woo = tweet_sentiment('woonomic') Willy Woo https://twitter.com/woonomic
+###### t360 = tweet_sentiment('360_trader')https://twitter.com/360_trader
+###### whale = tweet_sentiment('CryptoWhale')https://twitter.com/ShibaInu_Rise
+###### charles = tweet_sentiment('IOHK_charles')https://twitter.com/IOHK_Charles
+###### mark = tweet_sentiment('mcuban') Mark Cuban https://twitter.com/mcuban
+###### kevin = tweet_sentiment('kevinolearytv') https://twitter.com/kevinolearytv
+###### joel = tweet_sentiment('JoelKatz') https://twitter.com/JoelKatz
+###### dave = tweet_sentiment('stoolpresidente')https://twitter.com/stoolpresidente
 
 ## Analysis: 
 ### Fear and Greed Index 
