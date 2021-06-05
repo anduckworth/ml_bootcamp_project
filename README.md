@@ -24,6 +24,10 @@ mark = tweet_sentiment('mcuban') Mark Cuban https://twitter.com/mcuban
 kevin = tweet_sentiment('kevinolearytv') https://twitter.com/kevinolearytv
 joel = tweet_sentiment('JoelKatz') https://twitter.com/JoelKatz
 dave = tweet_sentiment('stoolpresidente')https://twitter.com/stoolpresidente
+
+## Analysis: 
+#### Fear and Greed Index 
+https://github.com/anduckworth/ml_bootcamp_project/blob/main/images/FNG%20Trendline.png
 ![]()<br>
 ###
 ![]()<br>
