@@ -27,6 +27,7 @@ dave = tweet_sentiment('stoolpresidente')https://twitter.com/stoolpresidente
 
 ## Analysis: 
 #### Fear and Greed Index 
+![FNG Trendline](/images/FNG%20Trendline.png)
 https://github.com/anduckworth/ml_bootcamp_project/blob/main/images/FNG%20Trendline.png
 ![]()<br>
 ###
