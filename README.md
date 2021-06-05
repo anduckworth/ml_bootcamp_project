@@ -47,40 +47,6 @@ In the last year, there had been several major events that had impacted the cryp
 Below is a chart illustrating the Bitcoin price / FNG. Large spikes within those metrics can indicate bearish patterns. Typically, large spikes like that occurs when the FNG index dips drastically showing a downtrend in not only the index, but Bitcoin price as well. In the last month, we have been in the midst of similar volitility. 
 ![Bitcoin/FNG](/images//Bitcoin%20Close%20:%20FNG.png)
 
-![]()<br>
-###
-![]()<br>
-###
-![]()<br>
-###
-![]()<br>
-### 
-![]()<br>
-###
-![]()<br>
-###
-![]()<br>
-### 
-### Question 4<br>
-
-### Response <br>
-![]()<br>
-### Question 5<br>
-
-
-### Response <br>
-![]()<br>
-### Question 6<br>
-
-
-### Response <br>
-![]()<br>
-### Question 7<br>
-
-
-### Response <br>
-![]()<br>
-### Question 8<br>
-
-### Response <br>
-![]()<br>
+### Bitcoin Algorithm
+In our analysis of the FNG index and closing price, we had created a Deep Learning Algorithm to help potentially predict Bitcoin movements. The model takes into account two variables, the closing price and FNG index value. Although it is not as efficient in predicting exact prices, it does show potential price swings. This, coupled with the Twitter sentiment analysis below gives us a very good picture of sentiment surrounding the Crypto environment.
+![Bitcoin Algorithm](/images/Algoritm%20Performance.png)
