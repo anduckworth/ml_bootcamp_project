@@ -1,9 +1,9 @@
-# ml_bootcamp_project
-#Analyzing the past 1000 Web Scraped Tweets from key cryptocurrency influencers in comparison with Bitcoin closing prices from inception
-##Mala Sharma, George Mihalopoulos, Alex Narvaez-Duckworth
+# Twitter Machine Learning
+#### Mala Sharma, George Mihalopoulos, Alex Narvaez-Duckworth
 
+## Project Scope: 
 
-## Proposal / Hypothesis<br> Our goal was to web scrape significant twitter accounts in order to see what sentiment is displayed by these figures throughout the recent market cycle. Through our analysis we tried to determine whether this sentiment coincides with a change in the overall trend of the market.
+Today, the world is more connected than we have ever been in history. A single Tweet from one individual can create market reactions. More recently in the last month, Elon Musk attributed to Bitcoin's fall from all-tiem high's in the last month by accouncing Tesla will not be accepting the commodity as payment for Tesla vehicles. This led us to do more reserach on the topic and apply Natural Language Processing to a selection of web-scraped Tweets. These tweets were from notable accounts in the cryptocurrency space such as Elon Musk, Charles Hoskinson, Altcoin Daily, and even Dave Portnoy. Our intention was to extract an NLP analysis from these users to understand what their sentiment was like year to date, and whether or not that had any correlation to the cryptocurrency market. Using our cryptocurrency API data, can we test and train a model that predicts actual closing prices with an accuracy close to 70%
 
 ### Question 1<br> Why did we choose to only analyze the Twitter accounts of influencers from the cryptocurrency sphere? Why didn't we analyze subreddits and niche Facebook posts? 
 
