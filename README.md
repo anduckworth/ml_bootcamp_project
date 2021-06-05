@@ -2,24 +2,18 @@
 #### Mala Sharma, George Mihalopoulos, Alex Narvaez-Duckworth
 
 ## Project Scope: 
-
 Today, the world is more connected than we have ever been in history. A single Tweet from one individual can create market reactions. More recently in the last month, Elon Musk attributed to Bitcoin's fall from all-tiem high's in the last month by accouncing Tesla will not be accepting the commodity as payment for Tesla vehicles. This led us to do more reserach on the topic and apply Natural Language Processing to a selection of web-scraped Tweets. These tweets were from notable accounts in the cryptocurrency space such as Elon Musk, Charles Hoskinson, Altcoin Daily, and even Dave Portnoy. Our intention was to extract an NLP analysis from these users to understand what their sentiment was like year to date, and whether or not that had any correlation to the cryptocurrency market. Using our cryptocurrency API data, can we test and train a model that predicts actual closing prices with an accuracy close to 70%
 
 ## Question 1 
 #### Why did we choose to only analyze the Twitter accounts of influencers from the cryptocurrency sphere? Why didn't we analyze subreddits and niche Facebook posts? 
+We decided to analyze Twitter for several reasons. The first being that Twitter has grown exponentially in popularity amoung Milenials and Generation Z. These accounts reach a higher amount of individuals within that demographic. Additioanlly, Tweets are easily tracable, prodividing us with ample data to run our analysis. 
 
-### Response <br> Twitter is the most accessible platform for cryptocurrency leading influencers to carry the most sway over the mass market. Tweets were also the easiest form of media for us to access a variety of opinions simultaneously for natural language processing.
-![insert photo about Twitter if needed ](
-)<br>
-### Question 2<br> Why did we decide to perform a close read of the Bitcoin closing prices and not any other coins (i.e. dogecoin & ethereum)?
+## Question 2 
+#### Why did we decide to perform a close read of the Bitcoin closing prices and not any other coins (i.e. dogecoin & ethereum)?
+Bitcoin is a major currency in the crypto market that has the most prevalence outside of the niche cryptosphere with widely recognizable supporters such as Elon Musk and Miami mayor Francis Suarez proposing to pay workers in Bitcoin. 
 
-### Response <br>Bitcoin is a major currency in the crypto market that has the most prevalence outside of the niche cryptosphere with widely recognizable supporters such as Elon Musk of Tesla company and Miami mayor Francis Suarez proposing to pay workers in Bitcoin. 
-
-
-![Bitcoin image if needed]()<br>
-### Question 3<br> Which Twitter-based cryptocurrency influencers did we choose to analyze and apply Natural Langauge Processing to?
-
-### Response <br>
+## Question 3
+#### Which Twitter-based cryptocurrency influencers did we choose to analyze and apply Natural Langauge Processing to?
 mike = ('michael_saylor') Michael Saylor https://twitter.com/michael_saylor
 elon = ('elonmusk') Elon Musk https://twitter.com/elonmusk
 woo = tweet_sentiment('woonomic') Willy Woo https://twitter.com/woonomic
