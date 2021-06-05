@@ -43,9 +43,10 @@ In the last year, there had been several major events that had impacted the cryp
 ![Bitcoin Price](/images/Bitcoin%20Price%20Chart.png)
 
 
-### 
+### Bitcoin Price / FNG
+Below is a chart illustrating the Bitcoin price / FNG. Large spikes within those metrics can indicate bearish patterns. Typically, large spikes like that occurs when the FNG index dips drastically showing a downtrend in not only the index, but Bitcoin price as well. In the last month, we have been in the midst of similar volitility. 
+![Bitcoin/FNG](/images//Bitcoin%20Close%20:%20FNG.png)
 
-https://github.com/anduckworth/ml_bootcamp_project/blob/main/images/Bitcoin%20Close%20:%20FNG.png
 ![]()<br>
 ###
 ![]()<br>
