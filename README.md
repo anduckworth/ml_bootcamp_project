@@ -6,11 +6,11 @@ Today, the world is more connected than we have ever been in history. A single T
 
 ## Question 1 
 #### Why did we choose to only analyze the Twitter accounts of influencers from the cryptocurrency sphere? Why didn't we analyze subreddits and niche Facebook posts? 
-We decided to analyze Twitter for several reasons. The first being that Twitter has grown exponentially in popularity amoung Milenials and Generation Z. These accounts reach a higher amount of individuals within that demographic. Additioanlly, Tweets are easily tracable, prodividing us with ample data to run our analysis. 
+We decided to analyze Twitter for several reasons. The first being that Twitter has grown exponentially in popularity amoung Milenials and Generation Z, but also with older generations who have arguably access to more capital for investment. These Twitter accounts reach a higher amount of individuals within that demographic. Additionally, Tweets are easily tracable, providing us with ample data to run our analysis. The Twitter content that goes viral, such as Elon Musk's content, often makes it to these other more niche social platforms, sometimes in more diluted meme form. Thus, we would consider Twitter to be our "primary source" material for research.
 
 ## Question 2 
 #### Why did we decide to perform analysis on Bitcoin closing prices and not any other coins (i.e. dogecoin & ethereum)?
-Bitcoin is a major currency in the crypto market that has the most prevalence outside of the niche cryptosphere with widely recognizable supporters such as Elon Musk and Miami mayor Francis Suarez proposing to pay workers in Bitcoin. It is also the largest token by market cap in the cryptocurrency market. Since we couldn't finde price feeds for the total and total 2 market caps of crypto, we decided that bitcoin would be the closest representation of this. 
+Bitcoin is a major currency in the crypto market that has the most prevalence outside of the estoteric cryptosphere with widely recognizable supporters such as Elon Musk and Miami mayor Francis Suarez proposing to pay workers in Bitcoin. More recently, El Salvador President Nayib Bukele has offered Bitcoin as official legal tender, especially for El Salvadorian ex-patriots to send money home in the form of decentralized remittances. Bitcoin is also considered the largest token by market cap in the cryptocurrency market. Within the short time-frame of this project, we did not find price feeds for the total market caps of the entire cryptocurrency market. Thus Bitcoin currency serves as metonymy for the cryptocurrency market.
 
 ## Question 3
 #### Which Twitter-based cryptocurrency influencers did we choose to analyze and apply Natural Langauge Processing to?
